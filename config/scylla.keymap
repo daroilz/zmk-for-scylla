@@ -82,7 +82,7 @@
 &kp ESC       &kp N1     &kp N2  &kp N3              &kp N4          &kp N5          &kp N6     &kp N7         &kp N8    &kp N9    &kp N0      &kp MINUS
 &kp CAPSLOCK  &kp COMMA  &kp T   &kp S               &kp Z           &kp B           &kp P      &kp F          &kp R     &kp D     &kp PERIOD  &kp EQUAL
 &kp LSHIFT    &kp O      &kp A   &kp E               &kp G           &kp Y           &kp L      &kp N          &kp I     &kp H     &kp U       &kp SQT
-&kp LCTRL     &kp X      &kp Q   &kp J               &kp C           &kp V           &kp K      &kp M          &kp W     &kp SEMI  &kp FSLH    &kp KP_ENTER
+&kp LCTRL     &kp X      &kp Q   &kp J               &kp C           &kp V           &kp K      &kp M          &kp W     &kp SEMI  &kp FSLH    &kp RET
                                  &lt 1 LEFT_BRACKET  &kp BACKSPACE   &kp UP_ARROW    &kp DOWN   &kp SPACE      &kp RBKT
                                                      &lt 2 LEFT_GUI  &kp LEFT        &kp RIGHT  &kp ALT_ERASE
             >;
